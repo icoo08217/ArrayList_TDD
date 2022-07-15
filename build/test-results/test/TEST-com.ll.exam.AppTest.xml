@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.ll.exam.AppTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-07-15T01:46:14" hostname="Byungui-MacBookPro.local" time="0.017">
+  <properties/>
+  <testcase name="ArrayList_클래스가_존재한다()" classname="com.ll.exam.AppTest" time="0.017"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
